@@ -42,7 +42,7 @@ sidebar:
           item: Public Speaking
           link: https://www.youtube.com/watch?v=5XLPOdRQ9pQ
         - interest:
-          item: Machine Learning  
+          item: Machine Learning 
 
 
 
@@ -52,12 +52,11 @@ sidebar:
 career-profile:
     title: Career Profile
     text: '<div><ul>
-            <li>7 years experience in Software Testing.</li>
             <li>7 years experience in Test Automation.</li>
-            <li>Strong knowledge: Java 8, Selenium WebDriver / Grid, Appium, SikuliX, TestNG, Allure, Jenkins, Git / Stash, Docker, REST,</li>
+            <li>Strong knowledge: Java 8, Selenium WebDriver / Grid, Appium, SikuliX, TestNG, Allure, Jenkins, Git / Stash, Docker, REST</li>
             <li>Experience in creating test automation frameworks / raising up automation infrastructure from scratch.</li>
             <li><a href="https://github.com/cuhavp">GitHub</a> profile</li>
-            <li>Google <a href="https://seleniumvn.com">blogger</a></li>
+            <li>Workpress <a href="https://seleniumvn.com">blogger</a></li>
             <li>TVNClub speaker</li>            
           </ul></div>
             <div>Started career as a automation QA. Have passed a long way from Junior up to Test Lead position. Have 4+ years experience in a management of test teams up to 4 members for projects of different complexity. Developed several selenium-driven frameworks with successful usage experience on big projects.</div><br>
@@ -69,7 +68,7 @@ career-profile:
 studies:
     - education:
       degree: Bachelor of Telecommunication -  PFIEV program
-      university: Ho Chi Minh City University Technology
+      university: Ho Chi Minh City University of Technology
       time: 2005 - 2010
 
 
