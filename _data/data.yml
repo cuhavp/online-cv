@@ -37,10 +37,12 @@ sidebar:
           item: IoT
         - interest:
           item: Consulting / Mentoring
-          link: http://sdclabs.com
+          link: https://www.testingvn.com
         - interest:
           item: Public Speaking
           link: https://www.youtube.com/watch?v=5XLPOdRQ9pQ
+        - interest:
+          item: Machine Learning  
 
 
 
@@ -77,12 +79,12 @@ projects:
 
     projects:
       - project:
-        title: Automation & Tools developer of Fossil Viet Nam
-        link: "#"
-        tagline: "Fossil is a wearable computing products inventor and manufacturer."
+        title: Automation & Tools developer at Fossil Viet Nam
+        link: "http://www.fossil-asia.com/en/hk.html"
+        tagline: "Fossil CA, is a designer and manufacturer of accessories, including watches, jewelries and connected devices."
       - project:
         title: Senior Automation Tester at Tiki.vn
-        link: "#"
+        link: "https://tiki.vn/"
         tagline: "This is a ecomerce startup"
       - project:
         title: Senior Software automation of AP project
@@ -91,7 +93,7 @@ projects:
       - project:
         title: Senior Software automation of AAC project
         link: "#"
-        tagline: "Conferencing system, a telecom system support chating, video conference"
+        tagline: "Conferencing system, a telecom system support chating, video conference on Desktop, mobile and hard phone aswell."
 
 skills:
     title: Skills &amp; Proficiency
@@ -129,7 +131,5 @@ skills:
         - skill:
           name: IoT
           level: 70%
-
-
 footer:
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
