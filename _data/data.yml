@@ -25,7 +25,7 @@ sidebar:
           level: Native
         - language:
           idiom: English
-          level: Advanced
+          level: Intermediate
 
     interests:
         - interest:
@@ -42,8 +42,8 @@ sidebar:
           item: Public Speaking
           link: https://www.youtube.com/watch?v=5XLPOdRQ9pQ
         - interest:
-          item: Machine Learning 
-
+          item: Machine Learning / AI
+          link: "#"
 
 
 
@@ -108,9 +108,9 @@ skills:
           level: 95%
         - skill:
           name: Appium
-          level: 70%
+          level: 95%
         - skill:
-          name: Karate DSL
+          name: Karate DSL (Rest API)
           level: 50%
         - skill:
           name: Java / OOP / Design Patterns
