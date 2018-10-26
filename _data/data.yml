@@ -50,18 +50,15 @@ sidebar:
 career-profile:
     title: Career Profile
     text: '<div><ul>
-            <li>9 years experience in Software Testing.</li>
-            <li>8 years experience in Test Automation.</li>
-            <li>Strong knowledge: Java 8, Selenium WebDriver / Grid, Appium, SikuliX, TestNG, Allure, Jenkins, Git / Stash, Docker, REST, SQL.</li>
+            <li>7 years experience in Software Testing.</li>
+            <li>7 years experience in Test Automation.</li>
+            <li>Strong knowledge: Java 8, Selenium WebDriver / Grid, Appium, SikuliX, TestNG, Allure, Jenkins, Git / Stash, Docker, REST,</li>
             <li>Experience in creating test automation frameworks / raising up automation infrastructure from scratch.</li>
-            <li>Contributing to <a href="https://github.com/atinfo/at.info-knowledge-base">AT-INFO</a>, <a href="https://github.com/allure-framework">Allure</a>, <a href="https://github.com/cbeust/testng">TestNG</a></li>
             <li><a href="https://github.com/cuhavp">GitHub</a> profile</li>
             <li>Google <a href="https://seleniumvn.com">blogger</a></li>
-            <li>GitHub <a href="https://sskorol.github.io">blogger</a></li>
             <li>TVNClub speaker</li>            
           </ul></div>
-
-            <div>Started career as a automation QA. Have passed a long way from Junior up to Test Lead position. Have 4+ years experience in a management of test teams up to 5 members for projects of different complexity. Developed several selenium-driven frameworks with successful usage experience on big projects.</div><br>
+            <div>Started career as a automation QA. Have passed a long way from Junior up to Test Lead position. Have 4+ years experience in a management of test teams up to 4 members for projects of different complexity. Developed several selenium-driven frameworks with successful usage experience on big projects.</div><br>
             <div>Consulting and mentoring automation engineers within local / customers teams and via external consulting services. Providing internal QAA trainings. Continuously improving skills in Java / Ruby and latest web automation trends. Tech talks / conferences speaker. QAA blogger.</div><br>
             <div>Strong experience in testing of large scale, highly available / specific private B2C / B2B applications including Internet shops, jobs / health & care sites, cloud payment solutions, financial and secret government applications, etc.</div><br>
             <div>Strong knowledge of software testing fundamentals, testing throughout the software life cycle, test design techniques, test management and tool support for testing.</div>'
