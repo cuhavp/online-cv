@@ -53,7 +53,7 @@ career-profile:
     title: Career Profile
     text: '<div><ul>
             <li>9 years experience in Test Automation.</li>
-            <li>Strong knowledge: Java 8, Selenium WebDriver / Grid, Appium, Gatling, TestNG, Allure, Jenkins, Git / Stash, Docker, REST,GraghQL,gRPC</li>
+            <li>Strong knowledge: Java 8, Selenium WebDriver / Grid, Appium, Gatling, TestNG, Allure, Jenkins, Git / Stash, Docker, REST, GraghQL, gRPC</li>
             <li>Experience in creating test automation frameworks / raising up automation infrastructure from scratch.</li>
             <li><a href="https://github.com/cuhavp">GitHub</a> profile</li>
             <li>Workpress <a href="https://seleniumvn.com">blogger</a></li>
@@ -80,6 +80,7 @@ projects:
       - project:
         title: Senior Automation QA at Axon
         link: "https://www.axon.com"
+        tagLine: "Create testing platform for API, Load test with REST, GrapgQL, gRPPC"
       - project:
         title: Senior Automation & Tools developer at Fossil Viet Nam
         link: "http://www.fossil-asia.com/en/hk.html"
@@ -114,10 +115,10 @@ skills:
           level: 95%
         - skill:
           name: Karate DSL (Rest API)
-          level: 50%
+          level: 90%
         - skill:
           name: Java / OOP / Design Patterns
-          level: 80%
+          level: 70%
         - skill:
           name: Gradle / Maven
           level: 90%
@@ -133,5 +134,8 @@ skills:
         - skill:
           name: IoT
           level: 70%
+        - skill:
+          name: Gatling
+          level: 50%  
 footer:
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
