@@ -52,8 +52,8 @@ sidebar:
 career-profile:
     title: Career Profile
     text: '<div><ul>
-            <li>7 years experience in Test Automation.</li>
-            <li>Strong knowledge: Java 8, Selenium WebDriver / Grid, Appium, SikuliX, TestNG, Allure, Jenkins, Git / Stash, Docker, REST</li>
+            <li>9 years experience in Test Automation.</li>
+            <li>Strong knowledge: Java 8, Selenium WebDriver / Grid, Appium, Gatling, TestNG, Allure, Jenkins, Git / Stash, Docker, REST,GraghQL,gRPC</li>
             <li>Experience in creating test automation frameworks / raising up automation infrastructure from scratch.</li>
             <li><a href="https://github.com/cuhavp">GitHub</a> profile</li>
             <li>Workpress <a href="https://seleniumvn.com">blogger</a></li>
@@ -77,8 +77,12 @@ projects:
     intro: "Here you can find a list of open source and commercial projects I've been working on for the past 5 years."
 
     projects:
+     - project:
+        title: Senior Automation QA at Axon
+        link: "https://www.axon.com"
+        
       - project:
-        title: Automation & Tools developer at Fossil Viet Nam
+        title: Senior Automation & Tools developer at Fossil Viet Nam
         link: "http://www.fossil-asia.com/en/hk.html"
         tagline: "Fossil CA, is a designer and manufacturer of accessories, including watches, jewelries and connected devices."
       - project:
