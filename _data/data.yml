@@ -77,7 +77,7 @@ projects:
     intro: "Here you can find a list of open source and commercial projects I've been working on for the past 5 years."
 
     projects:
-     - project:
+      - project:
         title: Senior Automation QA at Axon
         link: "https://www.axon.com"
       - project:
