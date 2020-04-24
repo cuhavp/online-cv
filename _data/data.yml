@@ -4,7 +4,7 @@
 
 sidebar:
     # Site Settings
-    title: Ha Do CV
+    title: Ha Do - Software Automation Testing Engineer
     url: 'https://github.com/cuhavp/online-cv'
     about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
@@ -80,7 +80,6 @@ projects:
      - project:
         title: Senior Automation QA at Axon
         link: "https://www.axon.com"
-        
       - project:
         title: Senior Automation & Tools developer at Fossil Viet Nam
         link: "http://www.fossil-asia.com/en/hk.html"
